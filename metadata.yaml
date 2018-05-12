@@ -1,0 +1,32 @@
+_repo: Little-Brother_30142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doctorow, Cory
+    birthdate: 1971
+    gutenberg_agent_id: '3826'
+    url: http://www.gutenberg.org/2009/agents/3826
+    wikipedia: http://en.wikipedia.org/wiki/Cory_Doctorow
+description: ''
+gutenberg_issued: '2009-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30142'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Computer hackers -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Terrorism -- Fiction'
+- !lcsh 'Counterculture -- Fiction'
+- !lcsh 'Civil rights -- Fiction'
+- !lcsh 'United States. Dept. of Homeland Security -- Fiction'
+- !lcsh 'San Francisco (Calif.) -- Fiction'
+- !lcc 'PZ'
+title: Little Brother
+url: http://www.gutenberg.org/ebooks/30142
